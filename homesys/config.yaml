@@ -1,0 +1,6 @@
+camera:
+  resolution: [640, 480]
+  fps: 16
+hyperparams:
+  delta_thresh: 5
+  min_area: 5000
