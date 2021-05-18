@@ -4,3 +4,4 @@ camera:
 hyperparams:
   delta_thresh: 5
   min_area: 5000
+  acc_weight_alpha: 0.10
