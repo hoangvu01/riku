@@ -1,6 +1,10 @@
+server:
+  host: 0.0.0.0
+  port: 5000
 camera:
   resolution: [640, 480]
   fps: 16
+  visible: false 
 hyperparams:
   delta_thresh: 5
   min_area: 5000
